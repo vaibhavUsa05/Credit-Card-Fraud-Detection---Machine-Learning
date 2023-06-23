@@ -4,7 +4,7 @@ Title: Credit Card Fraud Detection Using Machine Learning
 *Introduction:
 Credit card fraud is a significant concern for both financial institutions and cardholders. To combat this issue, machine learning techniques are employed to develop effective fraud detection models. This summary provides an overview of a credit card fraud detection project utilizing machine learning algorithms.
 
- *Problem Statement:
+*Problem Statement:
 The project aims to detect fraudulent credit card transactions accurately. The objective is to minimize financial losses for both the card issuer and cardholders, while also ensuring a seamless and secure payment experience.
 
 *Data Collection and Preprocessing:
